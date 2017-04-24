@@ -1,6 +1,6 @@
 {
-  "name": "OneSignal Example",
-  "short_name": "OneSignalExample",
+  "name": "Lester",
+  "short_name": "Lester",
   "start_url": "/",
   "display": "standalone",
   "gcm_sender_id": "482941778795",
